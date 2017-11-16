@@ -83,6 +83,7 @@ public class SenderController {
         response = Publish( msg );
 
         System.out.println( response );
+
     }
 
     private String Publish(String msg){
